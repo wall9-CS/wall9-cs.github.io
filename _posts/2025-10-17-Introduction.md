@@ -4,7 +4,7 @@ description: Introduction
 author: SH Choi
 date: 2025-10-17 22:28:00 +0800
 categories: [Etcetra]
-tags: [typography]
+tags: []
 pin: false
 math: false
 mermaid: false
