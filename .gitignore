@@ -23,3 +23,6 @@ package-lock.json
 !.vscode/tasks.json
 
 # Misc
+
+# post template
+_posts/sample.md
