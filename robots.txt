@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://wall9-cs.github.io/sitemap.xml
